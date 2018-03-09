@@ -1,0 +1,22 @@
+c:\users\installer\documents\visual studio 2013\Projects\LineGraph\bin\Debug\LineGraph.exe.config
+c:\users\installer\documents\visual studio 2013\Projects\LineGraph\bin\Debug\LineGraph.exe
+c:\users\installer\documents\visual studio 2013\Projects\LineGraph\bin\Debug\LineGraph.pdb
+c:\users\installer\documents\visual studio 2013\Projects\LineGraph\bin\Debug\LineGraph.xml
+c:\users\installer\documents\visual studio 2013\Projects\LineGraph\obj\Debug\LineGraph.Resources.resources
+c:\users\installer\documents\visual studio 2013\Projects\LineGraph\obj\Debug\LineGraph.vbproj.GenerateResource.Cache
+c:\users\installer\documents\visual studio 2013\Projects\LineGraph\obj\Debug\LineGraph.exe
+c:\users\installer\documents\visual studio 2013\Projects\LineGraph\obj\Debug\LineGraph.xml
+c:\users\installer\documents\visual studio 2013\Projects\LineGraph\obj\Debug\LineGraph.pdb
+C:\Users\installer\documents\visual studio 2013\Projects\LineGraph\obj\Debug\LineGraph.vbprojResolveAssemblyReference.cache
+C:\Users\installer\Documents\Visual Studio 2013\Projects\LineGraph\obj\Debug\LineGraph.LiveGraph.resources
+C:\Projects\LineGraph\bin\Debug\LineGraph.exe.config
+C:\Projects\LineGraph\obj\Debug\LineGraph.exe
+C:\Projects\LineGraph\obj\Debug\LineGraph.xml
+C:\Projects\LineGraph\obj\Debug\LineGraph.pdb
+C:\Projects\LineGraph\bin\Debug\LineGraph.exe
+C:\Projects\LineGraph\bin\Debug\LineGraph.pdb
+C:\Projects\LineGraph\bin\Debug\LineGraph.xml
+C:\Projects\LineGraph\obj\Debug\LineGraph.vbprojResolveAssemblyReference.cache
+C:\Projects\LineGraph\obj\Debug\LineGraph.LiveGraph.resources
+C:\Projects\LineGraph\obj\Debug\LineGraph.Resources.resources
+C:\Projects\LineGraph\obj\Debug\LineGraph.vbproj.GenerateResource.Cache
