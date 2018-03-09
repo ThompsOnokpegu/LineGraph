@@ -1,2 +1,2 @@
 # LineGraph
-Receives three inputs from Arduino Microcontroller and Plot a Line Graph with the inputs.
+This Visual Basic .NET application receives three input quantities from Arduino Microcontroller and then plot a dynamic Line Graph with the inputs.
